@@ -6,7 +6,7 @@ public class Supervisor {
 	
 	private String nome;
 	private List<String> telefones;
-	private String matricula;
+	private String matricula; //primary key
 	
 	public Supervisor(){
 		
