@@ -36,6 +36,14 @@ public class Supervisor {
 	public void setMatricula(String matricula) {
 		this.matricula = matricula;
 	}
+
+	public List<String> getTelefones() {
+		return telefones;
+	}
+
+	public void setTelefones(List<String> telefones) {
+		this.telefones = telefones;
+	}
 	
 	
 }
